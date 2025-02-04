@@ -1,0 +1,4 @@
+dist/audio-to-texto.exe
+ffmpeg/bin/ffmpeg.exe
+ffmpeg/bin/ffplay.exe
+ffmpeg/bin/ffprobe.exe
